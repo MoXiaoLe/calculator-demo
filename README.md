@@ -3,12 +3,17 @@
 
 
 Operator
+
 AddOperator extends Operator
+
 DeductOperator extends Operator
+
 MultiOperator extends Operator
+
 DivideOperator extends Operator
 
 AbstractCommand
+
 CalculatorCommand implements AbstractCommand
 
 OperatorBuilder
